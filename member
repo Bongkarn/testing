@@ -3,6 +3,7 @@ int main(){
 
  printf("MEMBER IS : \n");
  printf("1.Sagolwong\n");
+ printf("2.BongKarn\n");
 
  return 0;
  }
